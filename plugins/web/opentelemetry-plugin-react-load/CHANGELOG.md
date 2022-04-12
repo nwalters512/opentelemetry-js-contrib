@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.27.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/plugin-react-load-v0.26.1...plugin-react-load-v0.27.0) (2022-04-12)
+
+
+### Features
+
+* remove colors dependency ([#943](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/943)) ([b21b96c](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/b21b96c1a3a4f871370f970d6b2825f00e1fe595)), closes [#826](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/826)
+* update webpack outside of examples ([#963](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/963)) ([9a58648](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/9a586480ed6a7677fb1283a61d05540345c52617))
+
 ### [0.26.1](https://www.github.com/open-telemetry/opentelemetry-js-contrib/compare/plugin-react-load-v0.26.0...plugin-react-load-v0.26.1) (2022-01-24)
 
 

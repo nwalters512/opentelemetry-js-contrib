@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.28.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-web-v0.27.2...auto-instrumentations-web-v0.28.0) (2022-04-12)
+
+
+### Features
+
+* remove colors dependency ([#943](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/943)) ([b21b96c](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/b21b96c1a3a4f871370f970d6b2825f00e1fe595)), closes [#826](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/826)
+* update webpack outside of examples ([#963](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/963)) ([9a58648](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/9a586480ed6a7677fb1283a61d05540345c52617))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @opentelemetry/instrumentation-document-load bumped from ^0.27.1 to ^0.28.0
+    * @opentelemetry/instrumentation-user-interaction bumped from ^0.28.1 to ^0.29.0
+
 ### [0.27.2](https://www.github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-web-v0.27.1...auto-instrumentations-web-v0.27.2) (2022-01-24)
 
 

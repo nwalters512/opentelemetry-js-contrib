@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.28.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/browser-extension-autoinjection-v0.27.4...browser-extension-autoinjection-v0.28.0) (2022-04-12)
+
+
+### Features
+
+* remove colors dependency ([#943](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/943)) ([b21b96c](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/b21b96c1a3a4f871370f970d6b2825f00e1fe595)), closes [#826](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/826)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @opentelemetry/instrumentation-document-load bumped from ^0.27.1 to ^0.28.0
+
 ### [0.27.4](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/browser-extension-autoinjection-v0.27.3...browser-extension-autoinjection-v0.27.4) (2022-03-02)
 
 

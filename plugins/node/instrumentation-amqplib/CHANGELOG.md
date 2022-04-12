@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.28.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-amqplib-v0.28.0...instrumentation-amqplib-v0.28.1) (2022-04-12)
+
+
+### Bug Fixes
+
+* **amqplib:** add missing rabbit service to CI daily run ([#946](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/946)) ([5f63606](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/5f63606ee983b598d2ad8260e2fb2399cda29a7b))
+
 ## [0.28.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-amqplib-v0.27.0...instrumentation-amqplib-v0.28.0) (2022-03-14)
 
 

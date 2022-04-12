@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-tedious-v0.1.0...instrumentation-tedious-v0.1.1) (2022-04-12)
+
+
+### Bug Fixes
+
+* remove forcing RUN_MSSQL_TESTS to be true in tests ([#965](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/965)) ([bcbdeb7](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/bcbdeb7231e2ad208421c8c61085cec881dc0867))
+
 ## 0.1.0 (2022-01-24)
 
 

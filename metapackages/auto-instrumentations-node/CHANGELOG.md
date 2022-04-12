@@ -14,6 +14,17 @@
     * @opentelemetry/instrumentation-redis bumped from ^0.28.0 to ^0.29.0
     * @opentelemetry/instrumentation-winston bumped from ^0.27.0 to ^0.27.2
 
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @opentelemetry/instrumentation-amqplib bumped from ^0.28.0 to ^0.28.1
+    * @opentelemetry/instrumentation-aws-lambda bumped from ^0.30.0 to ^0.31.0
+    * @opentelemetry/instrumentation-cassandra-driver bumped from ^0.27.0 to ^0.27.2
+    * @opentelemetry/instrumentation-mongodb bumped from ^0.29.0 to ^0.29.1
+    * @opentelemetry/instrumentation-pino bumped from ^0.28.0 to ^0.29.0
+    * @opentelemetry/instrumentation-winston bumped from ^0.27.3 to ^0.28.0
+
 ## [0.28.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-node-v0.27.3...auto-instrumentations-node-v0.28.0) (2022-03-14)
 
 

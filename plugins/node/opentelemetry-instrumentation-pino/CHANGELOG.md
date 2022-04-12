@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.29.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-pino-v0.28.1...instrumentation-pino-v0.29.0) (2022-04-12)
+
+
+### Features
+
+* send log level to pino hook ([#967](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/967)) ([cfb0b7a](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/cfb0b7a4ffe508563e383b7a186d438186b5c518))
+
 ### [0.28.1](https://www.github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-pino-v0.28.0...instrumentation-pino-v0.28.1) (2022-01-24)
 
 

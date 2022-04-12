@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.27.2](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-cassandra-driver-v0.27.1...instrumentation-cassandra-driver-v0.27.2) (2022-04-12)
+
+
+### Bug Fixes
+
+* don't try to shut cassandra client down if it wasn't initialized ([#966](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/966)) ([80e855a](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/80e855aa39ed10ee42cd3c839dc16a5d0449561a))
+
 ### [0.27.1](https://www.github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-cassandra-driver-v0.27.0...instrumentation-cassandra-driver-v0.27.1) (2022-01-24)
 
 
